@@ -1,0 +1,41 @@
+body{
+    background-color: #00000033;
+    
+}
+
+div{
+    border: 2px solid #00000067;
+    margin: 100px 0px 0px 200px;
+
+    padding-top: 20px;
+} 
+
+nav{
+    border: 3px solid black;
+}
+
+img {
+    width: 150px;
+}
+
+nav{
+    margin-left: 250px;
+}
+
+.batas {
+    margin-left: 20px;
+}
+.warna {
+    background-color: #00000075;
+}
+
+#bekgron{
+    background-color: rgba(200, 255, 0, 0.226);
+    position: relative;
+    left: 120px;
+    margin-left: 200px;
+}
+
+.kanan{
+    margin-left: 200px;
+}
